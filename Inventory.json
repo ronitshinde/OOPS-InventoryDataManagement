@@ -1,0 +1,75 @@
+{
+
+  "TypesOfRice": [
+    {
+      "name": "Basmati",
+      "weight": 23,
+      "price": 200
+    },
+    {
+      "name": "Kohinoor",
+      "weight": 50,
+      "price": 300
+    },
+    {
+      "name": "Polish",
+      "weight": 25,
+      "price": 250
+    },
+    {
+      "name": "Tukda",
+      "price": 220,
+      "weight": 20
+    }
+  ],
+
+  "TypesOfWheat": [
+    {
+      "name": "Wheat 1",
+      "weight": 35,
+      "price": 200
+    },
+    {
+      "name": "Wheat 2",
+      "weight": 25,
+      "price": 150
+    },
+    {
+      "name": "Wheat 3",
+      "weight": 30,
+      "price": 180
+    },
+    {
+      "name": "Wheat 4",
+      "weight": 40,
+      "price": 160
+    }
+  ],
+
+  "TypesOfPulses": [
+    {
+      "name": "Dal",
+      "weight": 25,
+      "price": 240
+    },
+    {
+      "name": "Green gram",
+      "weight": 40,
+      "price": 300
+    },
+    {
+      "name": "Horse gram",
+      "weight": 30,
+      "price": 250
+    },
+    {
+      "name": "Moong",
+      "weight": 22,
+      "price": 240
+    }
+  ]
+}
+
+
+
+
